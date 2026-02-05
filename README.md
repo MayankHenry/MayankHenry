@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 **BTech CSE (AI & ML)** @ GLA University (2028)
 - 🧠 Specialized in **Generative AI, RAG & AI System Design**
