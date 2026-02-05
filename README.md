@@ -26,12 +26,6 @@
 - ⚡ Hands-on with **large-scale data & real-time pipelines**
 - 🎯 Targeting **top AI internships & high-impact engineering roles**
 
-
-
-
-
-
-
 ---
 
 ## 🛠️ Tech Stack
