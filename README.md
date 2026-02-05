@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Generative+AI+%26+RAG;Building+Real-World+AI+Systems" />
+</p>
+
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | Generative AI Enthusiast 🤖</h3>
 
 <p align="center">
@@ -15,6 +19,9 @@
 - 🏗️ Building **production-ready AI + Full-Stack apps**
 - ⚡ Experience with **large-scale data & real-time systems**
 - 🎯 Goal: **Top AI internships & high-impact roles**
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ---
 
@@ -33,6 +40,11 @@
 
 ### ☁️ Cloud & DevOps
 `Microsoft Azure` `Docker` `Git` `Power BI`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,react,fastapi,flask,docker,azure,git" />
+</p>
+
 
 ---
 
