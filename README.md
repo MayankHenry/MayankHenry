@@ -27,10 +27,10 @@ AI/ML Engineer Intern Aspirant | Generative AI • RAG • Full-Stack AI Systems
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
-- 🎓 **BTech CSE (AI & ML)** @ GLA University (2028)
-- 🧠 Strong focus on **Generative AI, RAG & AI System Design**
-- 🏗️ Building **scalable, production-grade AI + Full-Stack apps**
-- ⚡ Hands-on with **large-scale data & real-time pipelines**
+- 🎓 **BTech CSE (AI & ML)** @ GLA University (2024 - Present)[cite: 4]
+- 🧠 Strong focus on **Generative AI, Agentic Workflows (LangGraph), & AI System Design**[cite: 4]
+- 🏗️ Building **scalable, production-grade AI + Full-Stack apps**[cite: 4]
+- ⚡ Hands-on with **hybrid search, vector databases, and real-time CV pipelines**[cite: 4]
 - 🎯 Actively targeting **AI/ML internships & high-impact roles**
 
 <br clear="right"/>
@@ -47,7 +47,7 @@ AI/ML Engineer Intern Aspirant | Generative AI • RAG • Full-Stack AI Systems
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css&theme=dark" />
 </p>
 
 ---
@@ -62,25 +62,25 @@ AI/ML Engineer Intern Aspirant | Generative AI • RAG • Full-Stack AI Systems
 </p>
 
 <p align="center">
-  <span style="color:#22D3EE;">Generative AI</span> • 
-  <span style="color:#A78BFA;">RAG</span> • 
-  <span style="color:#4ADE80;">FAISS</span> • 
-  <span style="color:#FACC15;">Gemini Vision</span> • 
-  <span style="color:#FB7185;">Anomaly Detection</span>
+  <span style="color:#22D3EE;">Agentic AI (LangGraph)</span> • 
+  <span style="color:#A78BFA;">Production RAG</span> • 
+  <span style="color:#4ADE80;">YOLOv8 & CV</span> • 
+  <span style="color:#FACC15;">LLM Integration</span> • 
+  <span style="color:#FB7185;">Hybrid Search</span>
 </p>
 
 ---
 
 ### 🌐 Full-Stack & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,streamlit,supabase,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,django,flask,tailwind&theme=dark" />
 </p>
 
 ---
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Databases, Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase,docker,azure,git,github&theme=dark" />
 </p>
 
 <p align="center">
@@ -89,61 +89,54 @@ AI/ML Engineer Intern Aspirant | Generative AI • RAG • Full-Stack AI Systems
 
 ---
 
-## 🧠 Core AI Strengths
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases: FAISS, pgvector
-- LLM APIs: OpenAI, Gemini, DeepSeek
-- Computer Vision & Vision Models
-- Time-Series Forecasting & Anomaly Detection
-- Production APIs with FastAPI & Flask
+## 🧑‍💻 Experience
 
----
-
-## 🧑‍💻 Internship Experience
+### 🔹 Full Stack Developer Intern — **Atlysbridge Solutions** (May 2026 – Jun 2026)
+- 🌐 Completed an intensive structured training program focused on modern, full-stack web development methodologies[cite: 4].
 
 ### 🔹 AI/ML Intern — **SkillCred** (Jun 2025 – Aug 2025)
-- 🛒 Built **AI-powered e-commerce systems**
-- 🔍 Designed **RAG pipelines using FAISS**
-- ✍️ Created **LLM-driven educational content generators**
-- ⚙️ Delivered **production-ready FastAPI services**
+- 🛒 Built **AI-powered e-commerce systems** with React, Supabase, and DeepSeek API[cite: 4].
+- 🔍 Architected a **RAG backend** utilizing FAISS and OpenAI APIs for semantic search across complex PDFs[cite: 4].
+- ⚙️ Engineered highly scalable **FastAPI microservices** using LLMs for autonomous content generation[cite: 4].
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏠 Hostel Harmony — AI Smart Hostel Management
-- Reduced resolution time by **50%**
-- Gemini Vision-based issue verification
-- Vector memory deduplication  
-**Tech:** React • Flask • Supabase • Gemini 1.5
+### 🎥 FrameSentinel | [View on GitHub](https://github.com/MayankHenry/FrameSentinel)
+**Real-Time Multi-Camera Safety & Anomaly Monitoring**
+- Engineered a real-time computer vision platform for multi-camera RTSP ingestion and object tracking using **YOLOv8** and **ByteTrack**[cite: 4].
+- Developed a decoupled architecture featuring a FastAPI backend, Python inference service, and React dashboard for live alerting[cite: 4].
+- **Tech Stack:** Python • YOLOv8 • FastAPI • React • Docker[cite: 4]
 
 ---
 
-### 🆔 Aadhaar-Drishti — AI Policy Intelligence & Fraud Detection
-- Processed **5M+ records**
-- Detected **9,591 fraud anomalies**
-- Infrastructure load forecasting  
-**Tech:** Python • ML • Time-Series
+### ⚖️ ClauseIQ | [View on GitHub](https://github.com/MayankHenry/ClauseIQ)
+**RAG-Powered Contract & Document Intelligence Platform**
+- Developed a production-grade RAG platform featuring **hybrid search (BM25 + Vector)** and cross-encoder reranking to answer complex queries with exact clause citations[cite: 4].
+- Built an automated risk-diffing engine comparing uploaded contracts against standard templates to flag severity-scored legal risks[cite: 4].
+- **Tech Stack:** FastAPI • Next.js • Qdrant • PostgreSQL • RAG[cite: 4]
 
 ---
 
-### 📄 Smart Document Analyzer (Azure AI)
-- **95% accurate** PDF extraction
-- Azure Form Recognizer + App Service  
-**Tech:** Python • Streamlit • Azure AI
+### 🛡️ SentinelOps | [View on GitHub](https://github.com/MayankHenry/SentinelOps)
+**Autonomous DevOps Incident Response AI**
+- Architected an AI agent system using **LangGraph** to autonomously detect anomalies, query logs, and investigate root causes[cite: 4].
+- Built a scalable full-stack infrastructure leveraging a FastAPI backend, PostgreSQL database, and Celery for asynchronous task execution[cite: 4].
+- **Tech Stack:** FastAPI • LangGraph • React • PostgreSQL • Celery[cite: 4]
 
 ---
 
-### 🚗 Driver Drowsiness Detection
-- EAR-based real-time monitoring
-- **30 FPS** performance  
-**Tech:** Python • OpenCV • Dlib
+## 🏆 Achievements & Certifications
+- **Certifications:** Microsoft Certified: Power BI Data Analyst Associate (PL-300), Azure AI-900 & AZ-900, Google GenAI Skills, Samsung Solve for Tomorrow[cite: 4].
+- **Hackathons:** 🥉 Secured 3rd Position in the **ByteSize Sage AI Hackathon** (Jan 2025); Participated at IIT Guwahati and IIIT Bangalore[cite: 4].
+- **Problem Solving:** Solved **350+ DSA problems** and earned HackerRank certifications in Java and Problem Solving[cite: 4].
 
 ---
 
 ## 🎯 Actively Seeking
-- AI / ML Internships (2025–2026)
-- Generative AI & Applied ML roles
+- AI / ML Engineering Internships
+- Generative AI & Applied ML Roles
 - Open to **Remote & On-site** opportunities
 
 ---
@@ -168,8 +161,8 @@ AI/ML Engineer Intern Aspirant | Generative AI • RAG • Full-Stack AI Systems
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/mayankchaudhary321
-- 📧 Email: soulmayank0@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/mayankchaudhary321](https://linkedin.com/in/mayankchaudhary321)[cite: 4]
+- 📧 Email: [soulmayank0@gmail.com](mailto:soulmayank0@gmail.com)[cite: 4]
 
 ---
 
